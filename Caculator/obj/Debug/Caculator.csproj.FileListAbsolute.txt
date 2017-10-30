@@ -1,0 +1,6 @@
+C:\SourceCode\CalcSalary\CalcSalary\Caculator\bin\Debug\Caculator.dll
+C:\SourceCode\CalcSalary\CalcSalary\Caculator\bin\Debug\Caculator.pdb
+C:\SourceCode\CalcSalary\CalcSalary\Caculator\obj\Debug\Caculator.csprojResolveAssemblyReference.cache
+C:\SourceCode\CalcSalary\CalcSalary\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\SourceCode\CalcSalary\CalcSalary\Caculator\obj\Debug\Caculator.dll
+C:\SourceCode\CalcSalary\CalcSalary\Caculator\obj\Debug\Caculator.pdb

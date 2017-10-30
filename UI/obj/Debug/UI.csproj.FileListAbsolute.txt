@@ -1,0 +1,12 @@
+C:\SourceCode\CalcSalary\CalcSalary\UI\bin\Debug\UI.exe.config
+C:\SourceCode\CalcSalary\CalcSalary\UI\bin\Debug\UI.exe
+C:\SourceCode\CalcSalary\CalcSalary\UI\bin\Debug\UI.pdb
+C:\SourceCode\CalcSalary\CalcSalary\UI\bin\Debug\Caculator.dll
+C:\SourceCode\CalcSalary\CalcSalary\UI\bin\Debug\Caculator.pdb
+C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.MainForm.resources
+C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.Properties.Resources.resources
+C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.exe
+C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.pdb
