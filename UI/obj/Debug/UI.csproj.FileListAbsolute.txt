@@ -10,3 +10,15 @@ C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.csproj.GenerateResource.Cach
 C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
 C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.exe
 C:\SourceCode\CalcSalary\CalcSalary\UI\obj\Debug\UI.pdb
+C:\SourceCode\CalculateDiscount\UI\bin\Debug\UI.exe.config
+C:\SourceCode\CalculateDiscount\UI\bin\Debug\UI.exe
+C:\SourceCode\CalculateDiscount\UI\bin\Debug\UI.pdb
+C:\SourceCode\CalculateDiscount\UI\bin\Debug\Caculator.dll
+C:\SourceCode\CalculateDiscount\UI\bin\Debug\Caculator.pdb
+C:\SourceCode\CalculateDiscount\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\SourceCode\CalculateDiscount\UI\obj\Debug\UI.MainForm.resources
+C:\SourceCode\CalculateDiscount\UI\obj\Debug\UI.Properties.Resources.resources
+C:\SourceCode\CalculateDiscount\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\SourceCode\CalculateDiscount\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\SourceCode\CalculateDiscount\UI\obj\Debug\UI.exe
+C:\SourceCode\CalculateDiscount\UI\obj\Debug\UI.pdb

@@ -21,7 +21,23 @@ namespace UI
 
         private void btnCalular_Click(object sender, EventArgs e)
         {
+            if (txtSalario.Text == string.Empty || txtSalario.Text == "0")
+            {
+                MessageBox.Show("El campo salario de puede estar en blanco o ser igual a cero.");
+                return;
+            }
+
             SalarioDesc result = DiscountCalculator.Current.GetDiscounts(double.Parse(txtSalario.Text));
+            this.SetInformation(result);
+
+        }
+
+        /// <summary>
+        /// Colocar los valores el los textbox
+        /// </summary>
+        /// <param name="result"></param>
+        private void SetInformation(SalarioDesc result)
+        {
 
             lbSalarioMensual.Text = double.Parse(txtSalario.Text).ToString("C2");
 
